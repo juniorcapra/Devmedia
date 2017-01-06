@@ -1,0 +1,20 @@
+Prova de conceito
+http://www.onjava.com/2002/06/12/trove.html
+
+-Map 
+TROVE
+GUAVA
+JDK
+
+HashSet
+GUAVA
+TROVE
+JDK
+
+
+Lists
+
+
+Caso utilizar maps com inteiros o Trove
+chega a ser 7 vezes mais rapido do que o JDK e 
+o GUAVA
